@@ -1,2 +1,0 @@
-# Prom-t-
-programmi tööd
