@@ -4,12 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sulgude kasutamine");
-            Console.WriteLine("Kui palju on : 3+ 8 / (4-2) * 4 = ?");
-
-            double calculation1 = 3 + 8 / (4 - 2) * 4;
-
-            Console.WriteLine("vastus " +  calculation1);
+            Console.WriteLine("maa kalkulaator");
+            //int circleradius = 3;
+            int diam = 127420000;
+            //12 742000000
+            //25.75 mm
+            Console.WriteLine("maa ümbermõõt: " +  (Math.PI ) * ( diam ) );
+            Console.WriteLine("ma müntides" + (Math.PI) * (diam) / (25.75));
+           
         }
     }
 }
