@@ -6,17 +6,34 @@
         {
 
             Console.WriteLine("kirjuta number");
-            int i = Convert.ToInt32(Console.ReadLine());
-            for (int j = 0; j <= i; j++)
+            int i, j, n;
+            Console.Write("loo püramid **");
+            Console.WriteLine("sisesta suurus");
+            n = Convert.ToInt32(Console.ReadLine());
+            for (i = 0; i < n; i++)
             {
-                for (int k = 0; k <= j; k++)
+                for (j = 1; j < n-i; j++)
                 {
-                    Console.Write(" * ");
+                    Console.Write(" ");
                 }
-                Console.WriteLine("\n");
+                for (j = 1; j <= 2*i-1 ; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.Write("\n");
             }
-           
-
+            for (i = n - 1; i >= 1; i--)
+            {
+                for (j = 1; j <= n - i ;j++)
+                {
+                    Console.Write(" ");
+                }
+                for(j = 1; j <= 2 * i - 1 ;j++)
+                {
+                    Console.Write("*");
+                }
+                Console.Write("\n"); 
+            }
 
         }
     }
