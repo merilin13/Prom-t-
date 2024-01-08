@@ -4,11 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            int asd = 3;
-            for (int i = 0; i < asd; i++)
+            Console.WriteLine("Täisarvude kokku liitmine kuni kümneni");
+            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("\n\n");
+            int j, sum = 0;
+            for (j = 1; j <= 10; j++)
             {
-                Console.WriteLine("Tere tulemast");
+                sum = sum + j;
+                Console.WriteLine($"Summa on : " + sum);
             }
         }
     }
