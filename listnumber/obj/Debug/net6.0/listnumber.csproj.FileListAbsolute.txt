@@ -1,0 +1,15 @@
+C:\Users\meril\source\repos\Prom-t-\listnumber\bin\Debug\net6.0\listnumber.exe
+C:\Users\meril\source\repos\Prom-t-\listnumber\bin\Debug\net6.0\listnumber.deps.json
+C:\Users\meril\source\repos\Prom-t-\listnumber\bin\Debug\net6.0\listnumber.runtimeconfig.json
+C:\Users\meril\source\repos\Prom-t-\listnumber\bin\Debug\net6.0\listnumber.dll
+C:\Users\meril\source\repos\Prom-t-\listnumber\bin\Debug\net6.0\listnumber.pdb
+C:\Users\meril\source\repos\Prom-t-\listnumber\obj\Debug\net6.0\listnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meril\source\repos\Prom-t-\listnumber\obj\Debug\net6.0\listnumber.AssemblyInfoInputs.cache
+C:\Users\meril\source\repos\Prom-t-\listnumber\obj\Debug\net6.0\listnumber.AssemblyInfo.cs
+C:\Users\meril\source\repos\Prom-t-\listnumber\obj\Debug\net6.0\listnumber.csproj.CoreCompileInputs.cache
+C:\Users\meril\source\repos\Prom-t-\listnumber\obj\Debug\net6.0\listnumber.sourcelink.json
+C:\Users\meril\source\repos\Prom-t-\listnumber\obj\Debug\net6.0\listnumber.dll
+C:\Users\meril\source\repos\Prom-t-\listnumber\obj\Debug\net6.0\refint\listnumber.dll
+C:\Users\meril\source\repos\Prom-t-\listnumber\obj\Debug\net6.0\listnumber.pdb
+C:\Users\meril\source\repos\Prom-t-\listnumber\obj\Debug\net6.0\listnumber.genruntimeconfig.cache
+C:\Users\meril\source\repos\Prom-t-\listnumber\obj\Debug\net6.0\ref\listnumber.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ListNumberMinMaxSumAvarage/1.0.0": {
+        "runtime": {
+          "ListNumberMinMaxSumAvarage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListNumberMinMaxSumAvarage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

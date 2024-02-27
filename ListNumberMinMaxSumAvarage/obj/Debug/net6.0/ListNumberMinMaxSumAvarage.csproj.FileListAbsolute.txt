@@ -1,0 +1,15 @@
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\bin\Debug\net6.0\ListNumberMinMaxSumAvarage.exe
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\bin\Debug\net6.0\ListNumberMinMaxSumAvarage.deps.json
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\bin\Debug\net6.0\ListNumberMinMaxSumAvarage.runtimeconfig.json
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\bin\Debug\net6.0\ListNumberMinMaxSumAvarage.dll
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\bin\Debug\net6.0\ListNumberMinMaxSumAvarage.pdb
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\obj\Debug\net6.0\ListNumberMinMaxSumAvarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\obj\Debug\net6.0\ListNumberMinMaxSumAvarage.AssemblyInfoInputs.cache
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\obj\Debug\net6.0\ListNumberMinMaxSumAvarage.AssemblyInfo.cs
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\obj\Debug\net6.0\ListNumberMinMaxSumAvarage.csproj.CoreCompileInputs.cache
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\obj\Debug\net6.0\ListNumberMinMaxSumAvarage.sourcelink.json
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\obj\Debug\net6.0\ListNumberMinMaxSumAvarage.dll
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\obj\Debug\net6.0\refint\ListNumberMinMaxSumAvarage.dll
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\obj\Debug\net6.0\ListNumberMinMaxSumAvarage.pdb
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\obj\Debug\net6.0\ListNumberMinMaxSumAvarage.genruntimeconfig.cache
+C:\Users\meril\source\repos\Prom-t-\ListNumberMinMaxSumAvarage\obj\Debug\net6.0\ref\ListNumberMinMaxSumAvarage.dll
