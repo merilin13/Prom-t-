@@ -1,0 +1,15 @@
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\bin\Debug\net6.0\oddnumberforeach.exe
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\bin\Debug\net6.0\oddnumberforeach.deps.json
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\bin\Debug\net6.0\oddnumberforeach.runtimeconfig.json
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\bin\Debug\net6.0\oddnumberforeach.dll
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\bin\Debug\net6.0\oddnumberforeach.pdb
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\obj\Debug\net6.0\oddnumberforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\obj\Debug\net6.0\oddnumberforeach.AssemblyInfoInputs.cache
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\obj\Debug\net6.0\oddnumberforeach.AssemblyInfo.cs
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\obj\Debug\net6.0\oddnumberforeach.csproj.CoreCompileInputs.cache
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\obj\Debug\net6.0\oddnumberforeach.sourcelink.json
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\obj\Debug\net6.0\oddnumberforeach.dll
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\obj\Debug\net6.0\refint\oddnumberforeach.dll
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\obj\Debug\net6.0\oddnumberforeach.pdb
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\obj\Debug\net6.0\oddnumberforeach.genruntimeconfig.cache
+C:\Users\meril\source\repos\Prom-t-\oddnumberforeach\obj\Debug\net6.0\ref\oddnumberforeach.dll

@@ -41,7 +41,7 @@ namespace hindelinetöö
             {
                 for (int j = 0; j < külg; j++)
                 {
-                    Console.Write("*");
+                    Console.Write(" * ");
                 }
                 Console.WriteLine();
             }
@@ -54,17 +54,16 @@ namespace hindelinetöö
         static void Teemand()
         {
             Console.WriteLine("Sisesta teemanti diagonaalide pikkused (vaheldumisi):");
-            int l = Convert.ToInt32(Console.ReadLine());
-            int p = Convert.ToInt32(Console.ReadLine());
+            int diag1 = Convert.ToInt32(Console.ReadLine());
+            int diag2 = Convert.ToInt32(Console.ReadLine());
 
-            int r = l / 2;
-            int s = p / 2;
+            int pooldiag1 = diag1 / 2;
 
             Console.WriteLine("Teemant:");
 
-            for (int i = 0; i <= l / 2; i++)
+            for (int i = 0; i <= pooldiag1; i++)
             {
-                for (int j = 0; j <= l / 2 - i; j++)
+                for (int j = 0; j <= pooldiag1 - i; j++)
                 {
                     Console.Write(" ");
                 }
@@ -76,9 +75,9 @@ namespace hindelinetöö
                 Console.WriteLine();
             }
 
-            for (int i = l / 2 - 1; i >= 0; i--)
+            for (int i = pooldiag1 - 1; i >= 0; i--)
             {
-                for (int j = 0; j <= l / 2 - i; j++)
+                for (int j = 0; j <= pooldiag1 - i; j++)
                 {
                     Console.Write(" ");
                 }
@@ -90,8 +89,8 @@ namespace hindelinetöö
                 Console.WriteLine();
             }
 
-            int ümbermoot = 2 * (l + p);
-            int pindala = (l * p) / 2;
+            int ümbermoot = 2 * (diag1 + diag2);
+            int pindala = (diag1 * diag2) / 2;
             Console.WriteLine($"Teemandi ümbermõõt on {ümbermoot} ja pindala on {pindala} ühikut.");
         }
 
@@ -134,7 +133,7 @@ namespace hindelinetöö
                 Console.WriteLine();
             }
 
-            int ümbermoot = alus + 2 * (int)Math.Sqrt(Math.Pow(alus / 2, 2) + Math.Pow(korgus, 2));
+            int ümbermoot = alus + korgus + (int)Math.Sqrt(Math.Pow(alus, 2) + Math.Pow(korgus, 2));
             double pindala = (alus * korgus) / 2.0;
             Console.WriteLine($"Kolmnurga ümbermõõt on {ümbermoot} ja pindala on {pindala} ühikut.");
         }

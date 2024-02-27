@@ -1,0 +1,15 @@
+C:\Users\meril\source\repos\Prom-t-\autoforeach\bin\Debug\net6.0\autoforeach.exe
+C:\Users\meril\source\repos\Prom-t-\autoforeach\bin\Debug\net6.0\autoforeach.deps.json
+C:\Users\meril\source\repos\Prom-t-\autoforeach\bin\Debug\net6.0\autoforeach.runtimeconfig.json
+C:\Users\meril\source\repos\Prom-t-\autoforeach\bin\Debug\net6.0\autoforeach.dll
+C:\Users\meril\source\repos\Prom-t-\autoforeach\bin\Debug\net6.0\autoforeach.pdb
+C:\Users\meril\source\repos\Prom-t-\autoforeach\obj\Debug\net6.0\autoforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meril\source\repos\Prom-t-\autoforeach\obj\Debug\net6.0\autoforeach.AssemblyInfoInputs.cache
+C:\Users\meril\source\repos\Prom-t-\autoforeach\obj\Debug\net6.0\autoforeach.AssemblyInfo.cs
+C:\Users\meril\source\repos\Prom-t-\autoforeach\obj\Debug\net6.0\autoforeach.csproj.CoreCompileInputs.cache
+C:\Users\meril\source\repos\Prom-t-\autoforeach\obj\Debug\net6.0\autoforeach.sourcelink.json
+C:\Users\meril\source\repos\Prom-t-\autoforeach\obj\Debug\net6.0\autoforeach.dll
+C:\Users\meril\source\repos\Prom-t-\autoforeach\obj\Debug\net6.0\refint\autoforeach.dll
+C:\Users\meril\source\repos\Prom-t-\autoforeach\obj\Debug\net6.0\autoforeach.pdb
+C:\Users\meril\source\repos\Prom-t-\autoforeach\obj\Debug\net6.0\autoforeach.genruntimeconfig.cache
+C:\Users\meril\source\repos\Prom-t-\autoforeach\obj\Debug\net6.0\ref\autoforeach.dll

@@ -1,0 +1,15 @@
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\bin\Debug\net6.0\foreachnumberadd.exe
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\bin\Debug\net6.0\foreachnumberadd.deps.json
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\bin\Debug\net6.0\foreachnumberadd.runtimeconfig.json
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\bin\Debug\net6.0\foreachnumberadd.dll
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\bin\Debug\net6.0\foreachnumberadd.pdb
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\obj\Debug\net6.0\foreachnumberadd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\obj\Debug\net6.0\foreachnumberadd.AssemblyInfoInputs.cache
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\obj\Debug\net6.0\foreachnumberadd.AssemblyInfo.cs
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\obj\Debug\net6.0\foreachnumberadd.csproj.CoreCompileInputs.cache
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\obj\Debug\net6.0\foreachnumberadd.sourcelink.json
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\obj\Debug\net6.0\foreachnumberadd.dll
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\obj\Debug\net6.0\refint\foreachnumberadd.dll
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\obj\Debug\net6.0\foreachnumberadd.pdb
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\obj\Debug\net6.0\foreachnumberadd.genruntimeconfig.cache
+C:\Users\meril\source\repos\Prom-t-\foreachnumberadd\obj\Debug\net6.0\ref\foreachnumberadd.dll

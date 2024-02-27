@@ -1,0 +1,15 @@
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\bin\Debug\net6.0\hindelinetöö.exe
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\bin\Debug\net6.0\hindelinetöö.deps.json
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\bin\Debug\net6.0\hindelinetöö.runtimeconfig.json
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\bin\Debug\net6.0\hindelinetöö.dll
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\bin\Debug\net6.0\hindelinetöö.pdb
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\obj\Debug\net6.0\hindelinetöö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\obj\Debug\net6.0\hindelinetöö.AssemblyInfoInputs.cache
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\obj\Debug\net6.0\hindelinetöö.AssemblyInfo.cs
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\obj\Debug\net6.0\hindelinetöö.csproj.CoreCompileInputs.cache
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\obj\Debug\net6.0\hindelinetöö.sourcelink.json
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\obj\Debug\net6.0\hindelinetöö.dll
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\obj\Debug\net6.0\refint\hindelinetöö.dll
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\obj\Debug\net6.0\hindelinetöö.pdb
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\obj\Debug\net6.0\hindelinetöö.genruntimeconfig.cache
+C:\Users\meril\source\repos\Prom-t-\hindelinetöö\obj\Debug\net6.0\ref\hindelinetöö.dll
