@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Prom-t-\link\bin\Debug\net6.0\link.exe
+C:\Users\opilane\source\repos\Prom-t-\link\bin\Debug\net6.0\link.deps.json
+C:\Users\opilane\source\repos\Prom-t-\link\bin\Debug\net6.0\link.runtimeconfig.json
+C:\Users\opilane\source\repos\Prom-t-\link\bin\Debug\net6.0\link.dll
+C:\Users\opilane\source\repos\Prom-t-\link\bin\Debug\net6.0\link.pdb
+C:\Users\opilane\source\repos\Prom-t-\link\obj\Debug\net6.0\link.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Prom-t-\link\obj\Debug\net6.0\link.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Prom-t-\link\obj\Debug\net6.0\link.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Prom-t-\link\obj\Debug\net6.0\link.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Prom-t-\link\obj\Debug\net6.0\link.dll
+C:\Users\opilane\source\repos\Prom-t-\link\obj\Debug\net6.0\refint\link.dll
+C:\Users\opilane\source\repos\Prom-t-\link\obj\Debug\net6.0\link.pdb
+C:\Users\opilane\source\repos\Prom-t-\link\obj\Debug\net6.0\link.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Prom-t-\link\obj\Debug\net6.0\ref\link.dll
