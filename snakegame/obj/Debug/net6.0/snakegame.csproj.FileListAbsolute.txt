@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Prom-t-\snakegame\obj\Debug\net6.0\snakegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Prom-t-\snakegame\obj\Debug\net6.0\snakegame.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Prom-t-\snakegame\obj\Debug\net6.0\snakegame.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Prom-t-\snakegame\obj\Debug\net6.0\snakegame.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Prom-t-\snakegame\bin\Debug\net6.0\snakegame.exe
+C:\Users\opilane\source\repos\Prom-t-\snakegame\bin\Debug\net6.0\snakegame.deps.json
+C:\Users\opilane\source\repos\Prom-t-\snakegame\bin\Debug\net6.0\snakegame.runtimeconfig.json
+C:\Users\opilane\source\repos\Prom-t-\snakegame\bin\Debug\net6.0\snakegame.dll
+C:\Users\opilane\source\repos\Prom-t-\snakegame\bin\Debug\net6.0\snakegame.pdb
+C:\Users\opilane\source\repos\Prom-t-\snakegame\obj\Debug\net6.0\snakegame.dll
+C:\Users\opilane\source\repos\Prom-t-\snakegame\obj\Debug\net6.0\refint\snakegame.dll
+C:\Users\opilane\source\repos\Prom-t-\snakegame\obj\Debug\net6.0\snakegame.pdb
+C:\Users\opilane\source\repos\Prom-t-\snakegame\obj\Debug\net6.0\snakegame.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Prom-t-\snakegame\obj\Debug\net6.0\ref\snakegame.dll
