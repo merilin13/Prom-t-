@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\pinpong\bin\Debug\net6.0\pinpong.exe
+C:\Users\opilane\source\repos\pinpong\bin\Debug\net6.0\pinpong.deps.json
+C:\Users\opilane\source\repos\pinpong\bin\Debug\net6.0\pinpong.runtimeconfig.json
+C:\Users\opilane\source\repos\pinpong\bin\Debug\net6.0\pinpong.dll
+C:\Users\opilane\source\repos\pinpong\bin\Debug\net6.0\pinpong.pdb
+C:\Users\opilane\source\repos\pinpong\obj\Debug\net6.0\pinpong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\pinpong\obj\Debug\net6.0\pinpong.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\pinpong\obj\Debug\net6.0\pinpong.AssemblyInfo.cs
+C:\Users\opilane\source\repos\pinpong\obj\Debug\net6.0\pinpong.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\pinpong\obj\Debug\net6.0\pinpong.dll
+C:\Users\opilane\source\repos\pinpong\obj\Debug\net6.0\refint\pinpong.dll
+C:\Users\opilane\source\repos\pinpong\obj\Debug\net6.0\pinpong.pdb
+C:\Users\opilane\source\repos\pinpong\obj\Debug\net6.0\pinpong.genruntimeconfig.cache
+C:\Users\opilane\source\repos\pinpong\obj\Debug\net6.0\ref\pinpong.dll
