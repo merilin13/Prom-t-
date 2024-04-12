@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\LINQjoin\obj\Debug\net6.0\LINQjoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\LINQjoin\obj\Debug\net6.0\LINQjoin.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LINQjoin\obj\Debug\net6.0\LINQjoin.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LINQjoin\obj\Debug\net6.0\LINQjoin.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LINQjoin\bin\Debug\net6.0\LINQjoin.exe
+C:\Users\opilane\source\repos\LINQjoin\bin\Debug\net6.0\LINQjoin.deps.json
+C:\Users\opilane\source\repos\LINQjoin\bin\Debug\net6.0\LINQjoin.runtimeconfig.json
+C:\Users\opilane\source\repos\LINQjoin\bin\Debug\net6.0\LINQjoin.dll
+C:\Users\opilane\source\repos\LINQjoin\bin\Debug\net6.0\LINQjoin.pdb
+C:\Users\opilane\source\repos\LINQjoin\obj\Debug\net6.0\LINQjoin.dll
+C:\Users\opilane\source\repos\LINQjoin\obj\Debug\net6.0\refint\LINQjoin.dll
+C:\Users\opilane\source\repos\LINQjoin\obj\Debug\net6.0\LINQjoin.pdb
+C:\Users\opilane\source\repos\LINQjoin\obj\Debug\net6.0\LINQjoin.genruntimeconfig.cache
+C:\Users\opilane\source\repos\LINQjoin\obj\Debug\net6.0\ref\LINQjoin.dll
