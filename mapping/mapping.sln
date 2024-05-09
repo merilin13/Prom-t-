@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mapping", "mapping.csproj", "{67E8EE22-6135-49DE-A1B3-CDEE0AD9425B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E8EE22-6135-49DE-A1B3-CDEE0AD9425B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E8EE22-6135-49DE-A1B3-CDEE0AD9425B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E8EE22-6135-49DE-A1B3-CDEE0AD9425B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E8EE22-6135-49DE-A1B3-CDEE0AD9425B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA0DDA18-513C-4A68-9B98-9FAA44EE230E}
+	EndGlobalSection
+EndGlobal
